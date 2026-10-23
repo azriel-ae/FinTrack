@@ -21,4 +21,3 @@ fintrack/
 
 ## Menjalankan
 Buka `index.html` di peramban. Butuh internet untuk memuat Tailwind, Chart.js, Lucide, dan font Inter lewat CDN.
-# FinTrack
